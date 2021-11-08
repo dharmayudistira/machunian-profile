@@ -1,0 +1,14 @@
+{
+    "photo" : "string",
+    "backdropPhoto" : "string",
+    "name" : "string",
+    "number" : "string",
+    "dateOfBirth" : "string",
+    "dateOfJoin" : "string",
+    "biography" : "string",
+    "isFavorite" : false,
+    "positionName" : "string",
+    "positionIcon" : "string",
+    "nationalityName" : "string",
+    "nationalityIcon" : "string"
+}
